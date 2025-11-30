@@ -1,0 +1,9 @@
+{
+  "name": "FitCoach AI",
+  "description": "A comprehensive personalized fitness coaching app powered by Gemini, offering diet plans, workout routines, form analysis, and real-time AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
